@@ -1,5 +1,5 @@
 locals {
-    message = "Hello World! Version 2.0.1"
+    message = "Hello World! Version 2.0.2"
 }
 
 resource "null_resource" "default" {
